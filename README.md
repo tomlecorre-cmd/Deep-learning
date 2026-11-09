@@ -12,7 +12,7 @@ Ce projet explore différentes architectures de Deep Learning (de la création d
 
 **Résultat clé :** Notre architecture CNN sur-mesure et légère (391k paramètres) a surpassé les performances d'un modèle ResNet-18 pré-entraîné massif (11M paramètres) avec une précision de **88.30%**.
 
-## 📊 Le Dataset (PathMNIST)
+## Le Dataset (PathMNIST)
 Le dataset utilisé est **PathMNIST** (issu de la collection MedMNIST).
 * **Données :** 100 000 images médicales (coupes histologiques du côlon).
 * **Coloration :** Hématoxyline et Éosine (H&E).
